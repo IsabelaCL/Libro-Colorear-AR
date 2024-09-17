@@ -6,17 +6,6 @@
 </script>
 <template>
   <div style="height: 100vh; width: 100vw;">
-    <!-- <a-scene -->
-    <!--   mindar-image=" -->
-    <!--     imageTargetSrc: https://cdn.jsdelivr.net/gh/hiukim/mind-ar-js@1.2.5/examples/image-tracking/assets/card-example/card.mind; -->
-    <!--     uiScanning: no -->
-    <!--   " -->
-    <!--   color-space="sRGB" -->
-    <!--   embedded -->
-    <!--   renderer="colorManagement: true, physicallyCorrectLights" -->
-    <!--   vr-mode-ui="enabled: false" -->
-    <!--   device-orientation-permission-ui="enabled: false" -->
-    <!-- > -->
     <a-scene
       mindar-image="
         imageTargetSrc: ./targets.mind;
