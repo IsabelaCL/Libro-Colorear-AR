@@ -1,6 +1,14 @@
 # libroColorear
+Libro para colorear en realidad aumentada realizado con Aframe y mind-ar
 
-This template should help get you started developing with Vue 3 in Vite.
+[mind-ar]
+(https://hiukim.github.io/mind-ar-js-doc/quick-start/compile/)
+
+[como generar las imagenes para trackear]:
+(https://www.mindar.org/how-to-choose-a-good-target-image-for-tracking-in-ar-part-1/)
+
+[Aframe]
+(https://aframe.io/)
 
 ## Recommended IDE Setup
 
