@@ -7,6 +7,9 @@ Libro para colorear en realidad aumentada realizado con Aframe y mind-ar
 [como generar las imagenes para trackear]:
 (https://www.mindar.org/how-to-choose-a-good-target-image-for-tracking-in-ar-part-1/)
 
+[generador de imagenes]
+(https://hiukim.github.io/mind-ar-js-doc/tools/compile/)
+
 [Aframe]
 (https://aframe.io/)
 
