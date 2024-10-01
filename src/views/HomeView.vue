@@ -14,7 +14,9 @@
     <div>
       <h1>Titulo E1</h1>
       <button class="boton" @click="$router.push('/book')">ir al libro</button>
-
+    </div>
+    <div class="imagen-container">
+      <img src="@/assets/BUNBUN.png" alt="">
     </div>
   </div>
   <!-- <div> -->
@@ -35,5 +37,10 @@
   background-color: blue;
   margin-right: 8px;
   border-radius: 50%;
+}
+.imagen-container {
+  display: flex;
+  justify-content: center;
+
 }
 </style>
