@@ -13,6 +13,9 @@ Libro para colorear en realidad aumentada realizado con Aframe y mind-ar
 [Aframe]
 (https://aframe.io/)
 
+[Aframe AR.js]
+(https://aframe.io/blog/arjs/)
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
